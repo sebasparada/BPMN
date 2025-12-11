@@ -12,6 +12,7 @@ Indice BPMN
 
 Indice Huevos
 
-[Huevos](Huevos.md#slug-del-encabezado)
+[Huevos](Huevos/Huevos.md#slug-del-encabezado)
 
-[Mapa](Mapa_Huevo.md#slug-del-encabezado)
+[Mapa](Huevos/Mapa_Huevo.md#slug-del-encabezado)
+
