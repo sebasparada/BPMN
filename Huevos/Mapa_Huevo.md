@@ -1,0 +1,1 @@
+![MAPA CONCEPTUAL](https://i.imgur.com/fBoHa9k.png)
