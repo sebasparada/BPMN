@@ -12,8 +12,13 @@ En definitiva, BPMN se ha establecido como el estándar indispensable para visua
 
 ## Referencias
 * https://chatgpt.com/
+
 * https://notebooklm.google.com/
+
 * https://miro.com/es/diagrama/que-es-bpmn/
+
 * https://www.ibm.com/mx-es/think/topics/bpmn/
+
 * https://www.google.com/
+
 
