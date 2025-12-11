@@ -4,7 +4,7 @@ Indice BPMN
 
 [Componentes](BPMN2.md#slug-del-encabezado)
 
-[Contexto](BPMN3.md#slug-del-encabezado)
+[Contexto](BPMN3#slug-del-encabezado)
 
 [Mapa](BPMN4.md#slug-del-encabezado)
 
